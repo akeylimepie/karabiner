@@ -1,5 +1,5 @@
 {
-  "title": "Переключатель раскладки Бирмана",
+  "title": "Переключатель Универсальной раскладки",
   "rules": [{
     "description": "Caps — English, Caps+Shift — Русский",
     "manipulators": [
